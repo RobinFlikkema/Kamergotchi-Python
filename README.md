@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+# Kamergotchi-Python
+Dit script kan jouw Kamergotchi (in mijn geval Emile Roemer) automatiseren. Hierdoor is Emile Roemer altijd tevreden, heeft hij nooit honger, heeft hij genoeg aandacht en heeft hij een overvloed aan kennis.
+Een ander bijkomend voordeel is dat jouw Kamergotchi in de ranglijsten komt te staan!
 
-You can use the [editor on GitHub](https://github.com/RobinFlikkema/Kamergotchi-Python/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Regels
+Alhoewel het script tegen [de regels van kamergotchi](https://web.archive.org/web/20170221212443/http://www.kamergotchi.nl/faq/) is, heeft het een goede 2 dagen gewerkt voordat m'n account geblokkeerd werd.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Gebruik
+Via BurpSuite of [een Packet Capture app](https://play.google.com/store/apps/details?id=app.greyshirts.sslcapture) wil je de benodigde headers achterhalen. Als je de app gebruikt kan je heel makkelijk je *device-id* en het *token* kopieren en plakken in het scriptje.
+Daarna is het scriptje klaar voor gebruik en kan je deze runnen.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RobinFlikkema/Kamergotchi-Python/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Known Issues
+In een enkel geval zal de server van kamergotchi een 502 Time-out returnen of een andere error. Het scriptje zal dan automatisch stoppen, maar voel je vrij om dit aan te passen zodat het scriptje zichzelf hervat!
