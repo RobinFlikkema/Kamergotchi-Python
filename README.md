@@ -8,7 +8,8 @@ Een ander bijkomend voordeel is dat jouw Kamergotchi in de ranglijsten komt te s
 Alhoewel het script tegen [de regels van kamergotchi](https://web.archive.org/web/20170221212443/http://www.kamergotchi.nl/faq/) is, heeft het een goede 2 dagen gewerkt voordat m'n account geblokkeerd werd.
 
 ## Gebruik
-Via BurpSuite of [een Packet Capture app](https://play.google.com/store/apps/details?id=app.greyshirts.sslcapture) wil je de benodigde headers achterhalen. Als je de app gebruikt kan je heel makkelijk je *device-id* en het *token* kopieren en plakken in het scriptje.
+Via BurpSuite of [een Packet Capture app](https://play.google.com/store/apps/details?id=app.greyshirts.sslcapture) wil je de benodigde headers achterhalen. De app stuurt namelijk de device-id mee als een soort gebruikersnaam om jouw account te identificeren. Of het token nodig is weet ik niet.
+Als je de app gebruikt kan je heel makkelijk je *device-id* en het *token* kopieren en plakken in het scriptje.
 Daarna is het scriptje klaar voor gebruik en kan je deze runnen.
 
 ## Known Issues
