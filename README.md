@@ -17,4 +17,4 @@ In een enkel geval zal de server van kamergotchi een 502 Time-out returnen of ee
 ## Resultaten
 ![totaal-ranglijst](http://i.imgur.com/OyyT76Q.png) ![dag-ranglijst](http://i.imgur.com/x0odavP.png)
 
-- Robin
+\- Robin
