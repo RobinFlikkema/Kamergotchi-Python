@@ -2,6 +2,8 @@
 Dit script kan jouw Kamergotchi (in mijn geval Emile Roemer) automatiseren. Hierdoor is Emile Roemer altijd tevreden, heeft hij nooit honger, heeft hij genoeg aandacht en heeft hij een overvloed aan kennis.
 Een ander bijkomend voordeel is dat jouw Kamergotchi in de ranglijsten komt te staan!
 
+[totaal-ranglijst](http://i.imgur.com/OyyT76Q.png)[dag-ranglijst](http://i.imgur.com/x0odavP.png)
+
 ## Regels
 Alhoewel het script tegen [de regels van kamergotchi](https://web.archive.org/web/20170221212443/http://www.kamergotchi.nl/faq/) is, heeft het een goede 2 dagen gewerkt voordat m'n account geblokkeerd werd.
 
