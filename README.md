@@ -15,6 +15,8 @@ Daarna is het scriptje klaar voor gebruik en kan je deze runnen.
 In een enkel geval zal de server van kamergotchi een 502 Time-out returnen of een andere error. Het scriptje zal dan automatisch stoppen, maar voel je vrij om dit aan te passen zodat het scriptje zichzelf hervat!
 
 ## Resultaten
+[Klik hier](https://web.archive.org/web/20170221211845/http://www.kamergotchi.nl/ranglijst/) voor de dag ranglijst
+[Klik hier](https://web.archive.org/web/20170221211828/http://www.kamergotchi.nl/totaal-ranglijst/) voor de totaal ranglijst
 ![totaal-ranglijst](http://i.imgur.com/OyyT76Q.png) ![dag-ranglijst](http://i.imgur.com/x0odavP.png)
 
 \- Robin
