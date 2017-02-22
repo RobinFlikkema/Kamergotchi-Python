@@ -17,6 +17,7 @@ In een enkel geval zal de server van kamergotchi een 502 Time-out returnen of ee
 ## Resultaten
 [Klik hier](https://web.archive.org/web/20170221211845/http://www.kamergotchi.nl/ranglijst/) voor de dag ranglijst.
 [Klik hier](https://web.archive.org/web/20170221211828/http://www.kamergotchi.nl/totaal-ranglijst/) voor de totaal ranglijst
+  
 ![totaal-ranglijst](http://i.imgur.com/OyyT76Ql.png) ![dag-ranglijst](http://i.imgur.com/x0odavPl.png)
 
 ## Werking van Kamergotchi
